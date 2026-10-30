@@ -1,0 +1,8 @@
+{
+  "name": "woolworths-product-data-example",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}

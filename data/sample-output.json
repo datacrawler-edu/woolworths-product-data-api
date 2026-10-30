@@ -1,0 +1,141 @@
+[
+  {
+    "type": "product",
+    "source": "online",
+    "sourceKind": "search",
+    "query": "milk",
+    "stockcode": "6073909",
+    "barcode": "9300662892908",
+    "name": "Full+ On The Go Meal Replacement Chocolate",
+    "displayName": "Full+ On The Go Meal Replacement Chocolate 480mL",
+    "brand": "Full+",
+    "packageSize": "480mL",
+    "price": 5.95,
+    "wasPrice": 5.95,
+    "cupString": "$12.40 / 1L",
+    "savingsPercent": 0,
+    "isOnSpecial": false,
+    "isAvailable": true,
+    "priceContext": "anonymous_default",
+    "storeNo": null,
+    "productURL": "https://www.woolworths.com.au/shop/productdetails/6073909/full-on-the-go-meal-replacement-chocolate",
+    "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6073909.jpg",
+    "ingredients": "Skim Milk, Milk Protein Concentrate, Medium Chain Triglyceride, Milk Solids, Cocoa Powder (1%), Vitamins and Minerals (Phosphorus, Calcium, Magnesium, Biotin, Vitamin C, Iodine, Iron, Vitamin E, Zinc, Riboflavin, Vitamin K, Niacin, Vitamin A, Vitamin D, Thiamin, Vitamin B12, Vitamin B6, Folate), Inulin, Natural Flavours, Stabiliser (Microcrystalline Cellulose, Sodium Carboxymethyl Cellulose, Carrageenan), Emulsifier (Sunflower Lecithin), Sweeteners (Acesulfame Potassium, Sucralose).",
+    "allergens": [
+      "Milk"
+    ],
+    "dietary": [
+      "Gluten Free",
+      "High Fibre",
+      "High Protein",
+      "Low Salt",
+      "Source of Fibre",
+      "Source of Protein",
+      "Vegetarian"
+    ],
+    "nutrition": [
+      {
+        "name": "Energy",
+        "perServing": "1550.0kJ",
+        "per100g": "323.0kJ",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "Protein",
+        "perServing": "35.0g",
+        "per100g": "7.3g",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "Fat, Total",
+        "perServing": "12.0g",
+        "per100g": "2.5g",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "– Saturated",
+        "perServing": "11.0g",
+        "per100g": "2.4g",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "Carbohydrate",
+        "perServing": "28.8g",
+        "per100g": "6.0g",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "– Sugars",
+        "perServing": "24.0g",
+        "per100g": "5.0g",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "Dietary Fibre",
+        "perServing": "5.8g",
+        "per100g": "1.2g",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      },
+      {
+        "name": "Sodium",
+        "perServing": "230.0mg",
+        "per100g": "48.0mg",
+        "servingSize": "480.0 ML",
+        "servingsPerPack": "1.0"
+      }
+    ],
+    "servingSize": "480.0 ML",
+    "servingsPerPack": "1.0",
+    "departmentNames": [
+      "Dairy, Eggs & Fridge",
+      "Lunch Box",
+      "Dinner"
+    ],
+    "categoryNames": [
+      "High Protein",
+      "Milk",
+      "Drinks"
+    ],
+    "subcategoryNames": [
+      "Protein Drinks",
+      "Flavoured Milk",
+      "Flavoured Milk & Drinks"
+    ],
+    "classification": {
+      "department": "FRESH CONVENIENCE",
+      "category": "DAIRY - MILK",
+      "subcategory": "MILK - FLAVOURED",
+      "segment": "MILK FLAVOURED 999ML & UNDER"
+    },
+    "purchaseLimit": 36,
+    "minimumQuantity": 1,
+    "seller": {
+      "id": null,
+      "name": null
+    },
+    "delivery": {
+      "minDays": null,
+      "maxDays": null,
+      "freeShipping": null,
+      "isBulky": null,
+      "isOversized": null,
+      "poBoxDeliverable": null
+    },
+    "rating": {
+      "average": null,
+      "reviewCount": null,
+      "ratingCount": null,
+      "fiveStarCount": null
+    },
+    "ratingRetrieved": true,
+    "productDetailsRetrieved": true,
+    "fetchedAt": "2026-10-30T11:15:16.558152+00:00"
+  }
+]

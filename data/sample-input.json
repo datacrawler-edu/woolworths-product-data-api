@@ -1,0 +1,9 @@
+{
+  "source": "online",
+  "searchTerms": [
+    "milk"
+  ],
+  "maxProducts": 5,
+  "includeProductDetails": true,
+  "includeRatings": true
+}

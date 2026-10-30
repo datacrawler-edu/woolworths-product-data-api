@@ -1,0 +1,147 @@
+{
+  "repository": {
+    "name": "woolworths-product-data-api",
+    "description": "Woolworths Australia product data: Python, JavaScript and cURL examples for prices, nutrition, ratings and CSV exports with Apify.",
+    "homepage": "https://apify.com/datascraperes/woolworths-products-scraper?fpr=edudata",
+    "language": "Python",
+    "license": "MIT"
+  },
+  "actor": {
+    "displayName": "Woolworths Product Scraper",
+    "id": "datascraperes/woolworths-products-scraper",
+    "storeUrl": "https://apify.com/datascraperes/woolworths-products-scraper",
+    "apiBaseUrl": "https://api.apify.com/v2/acts/datascraperes~woolworths-products-scraper",
+    "description": "Collect Australian grocery products, prices, ingredients, nutrition and rating summaries from the hosted Actor."
+  },
+  "affiliate": {
+    "enabled": true,
+    "parameter": "fpr=edudata",
+    "actorUrl": "https://apify.com/datascraperes/woolworths-products-scraper?fpr=edudata",
+    "pricingUrl": "https://apify.com/pricing?fpr=edudata"
+  },
+  "platform": {
+    "apifyFreePlan": {
+      "monthlyPrepaidUsage": "$5",
+      "renewsMonthly": true,
+      "noCreditCardRequired": true,
+      "unusedCreditsExpire": true,
+      "sourceUrl": "https://apify.com/pricing?fpr=edudata"
+    }
+  },
+  "interfaces": {
+    "web": {
+      "enabled": true,
+      "inputTab": "Input",
+      "outputTab": "Dataset",
+      "runAction": "Start",
+      "primaryInput": "searchTerms",
+      "inputLabel": "Search terms",
+      "inputSummary": "Enter product keywords such as milk, or use product links and category paths.",
+      "exportFormats": [
+        "JSON",
+        "CSV"
+      ]
+    },
+    "api": {
+      "enabled": true,
+      "examples": [
+        "cURL",
+        "Python",
+        "JavaScript"
+      ]
+    }
+  },
+  "seo": {
+    "primaryKeyword": "Woolworths product data API",
+    "secondaryKeywords": [
+      "Woolworths prices Python",
+      "Woolworths nutrition JSON",
+      "Woolworths products CSV"
+    ],
+    "topics": [
+      "woolworths",
+      "apify",
+      "grocery-data",
+      "product-data",
+      "price-monitoring",
+      "python",
+      "javascript",
+      "csv-export",
+      "api-integration"
+    ],
+    "longTailIntents": [
+      "Export Woolworths prices to CSV with Python",
+      "Collect Woolworths nutrition and allergen data",
+      "Run several grocery searches with a spending limit"
+    ]
+  },
+  "content": {
+    "readmeSectionOrder": [
+      "What this repository helps you do",
+      "Example result",
+      "Run without code",
+      "Try it with Apify's free plan",
+      "Quick start for developers",
+      "Input example",
+      "Request examples",
+      "Output fields",
+      "Common use cases",
+      "Long-tail use-case sections",
+      "FAQ",
+      "Limits and pricing",
+      "Hosted version",
+      "Responsible use",
+      "Support"
+    ],
+    "exampleFiles": [
+      "examples/python/search_products.py",
+      "examples/python/batch_searches.py",
+      "examples/python/export_products.py"
+    ],
+    "faqFile": "docs/faq.md"
+  },
+  "pricing": {
+    "summary": "Pay per delivered product; details are included. Ratings are optional. Store directory and diagnostics are not product events.",
+    "unit": "one product successfully saved to the Dataset",
+    "price": "$1 per 1,000 products on Free; plan discounts apply"
+  },
+  "distribution": {
+    "githubUrl": "https://github.com/datacrawler-edu/woolworths-product-data-api",
+    "actorToGithubUrl": "https://github.com/datacrawler-edu/woolworths-product-data-api",
+    "githubToActorUrl": "https://apify.com/datascraperes/woolworths-products-scraper?fpr=edudata",
+    "organizationHubUrl": "https://github.com/datacrawler-edu",
+    "firstRelease": {
+      "tag": "v0.1.0",
+      "title": "Initial public examples"
+    }
+  },
+  "examples": {
+    "inputFile": "data/sample-input.json",
+    "outputFile": "data/sample-output.json",
+    "csvFile": "data/sample-output.csv"
+  },
+  "measurement": {
+    "observationWindowDays": 30,
+    "githubSignals": [
+      "views",
+      "uniqueVisitors",
+      "clones",
+      "referrers",
+      "popularContent"
+    ],
+    "apifySignals": [
+      "users",
+      "runs",
+      "datasetItems",
+      "revenue"
+    ],
+    "searchChecks": [
+      "site:github.com/datacrawler-edu/woolworths-product-data-api",
+      "Woolworths product data API Python CSV"
+    ]
+  },
+  "support": {
+    "issuesUrl": "https://github.com/datacrawler-edu/woolworths-product-data-api/issues",
+    "actorSupportUrl": "https://apify.com/datascraperes/woolworths-products-scraper?fpr=edudata"
+  }
+}
